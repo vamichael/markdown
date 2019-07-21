@@ -7,21 +7,3 @@ The term is strongly associated with Nazi Germany, and like most Jews I’m *ext
 What a puerile disclaimer.  Of course she used those words with the sole purpose to incite and inflame.  And if the situation at the border is as bad as news reports state it is, then maybe  “throwing bombs” was the appropriate action.
 
 Her explanation was totally disingenuous.  Despite meeting the technical definitions of a concentration camp, I can state with 100% certainty that she knew how people would react and draw comparisons to Nazi Germany.  If she didn’t throw a bomb, she definitely lit the fuse.
-
-
-
-I care not a whit about crocodile tears from GOP opportunists like Liz Cheney.9001 open, which should be WS.  Assuming 127.0.0.1, what should the connection string look like?
-
-     mqtt:
-        image: eclipse-mosquitto:latest #1.5.8
-        container_name: eclipse-mqtt
-        restart: unless-stopped
-        ports:
-          - 1883:1883
-          - 1884:1884
-          - 9001:9001
-        volumes:
-          - ${USERDIR}/stacks/homeautomation/mqtt/config:/mosquitto/config
-          - ${USERDIR}/stacks/homeautomation/mqtt/data:/mosquitto/data
-          - ${USERDIR}/stacks/homeautomation/mqtt/log:/mosquitto/log
-
